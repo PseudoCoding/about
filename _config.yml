@@ -84,7 +84,8 @@ content:
         quote: >
           Solving healthcare problems through a DevOps culture
         description: | # this will include new lines to allow paragraphs
-          TBD
+          Joined as a member of the Technology Development Program to work on Java and .NET applications servince healthcare needs and progressed towards automation through
+          the use of CI/CD and the adoption of a DevOps culture.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
