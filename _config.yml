@@ -8,8 +8,8 @@ version: 2
 # Personal info
 name: Devin Houde
 title: Principal Engineer
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: dphoude7@email.com
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
